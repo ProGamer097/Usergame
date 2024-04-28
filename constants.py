@@ -7,5 +7,5 @@ TRANSLATION_CHANNEL_ID = -1001244035310
 BACKUP_CHANNEL = -1001232509544
 TRANSLATION_CHANNEL_LINK = "https://t.me/joinchat/AAAAAEomeO5_PZuVTaHOQg"
 DECKS_LINK = "https://github.com/TheChameleonBot/Chameleon/tree/master/decks"
-TRANSLATIONS_LINK = "https://github.com/TheChameleonBot/Chameleon/tree/master/strings"
+TRANSLATIONS_LINK = "https://github.com/ProGamer097/Usergame"
 HTML_STYLE_LINK = "https://core.telegram.org/bots/api#html-style"
